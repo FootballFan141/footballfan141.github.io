@@ -23,6 +23,10 @@
         {% include thoughts.html %}
       </div>
     {% endunless %}
+
+    <div class="my-6">
+      {% include clockfaces.html %}
+    </div>
   </div>
 {% else %}
   <div class="d-md-flex min-height-full {% unless site.style == 'dark' %}border-md-bottom{% endunless %}">
@@ -47,6 +51,10 @@
         {% unless posts_total == 0 %}
           {% include thoughts.html %}
         {% endunless %}
+        
+        <div class="my-6">
+          {% include clockfaces.html %}
+        </div>
       </div>
     </div>
   </div>

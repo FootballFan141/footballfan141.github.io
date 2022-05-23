@@ -1,0 +1,15 @@
+<h2 {% if site.style=='dark' %}class="text-white" {% endif %}>Clock Faces</h2>
+<p class="f4 mb-4 {% if site.style == 'dark' %}text-white{% else %}text-gray{% endif %}">Made for Fitbit</p>
+<div class="d-flex flex-wrap gutter-condensed mb-4">
+    {% for clockface in site.data.clockfaces %}
+    <div class="col-6 col-md-12 col-lg-6 col-xl-4 mb-3">
+        <a href="{{ clockface.url }}" target="_blank"
+            class="github-component position-relative hover-grow height-full no-underline d-flex flex-column flex-justify-center text-center border border-gray-light rounded-1 bg-white p-5">
+            <img src="{{ clockface.image }}" width="128" height="128" class="mx-auto rounded-1 mb-3"
+                alt="{{ clockface.name }}">
+            <p class="f3 lh-condensed text-center link-gray-dark mb-0 mt-1">{{ clockface.name }}</p>
+            <p class="f5 text-gray text-center mb-0 mt-1">{{ clockface.description }}</p>
+        </a>
+    </div>
+    {% endfor %}
+</div>
