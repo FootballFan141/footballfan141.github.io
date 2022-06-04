@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Simple Blocks",
+        "description": "A blocky / tile / square face with a digital clock, steps and calorie goal progress, current date, heart rate, battery status, steps and calories for the day. A motivational message at the bottom.",
+        "image": "./assets/clockfaces/simple-blocks.png",
+        "url": "https://gallery.fitbit.com/details/8c47df09-09e4-4ea0-becb-5c3d6fd68eb6"
+    },
+    {
+        "name": "Winter Snowman",
+        "description": "A simple digital clock face with a snowman on a winter background.",
+        "image": "./assets/clockfaces/winter-snowman.png",
+        "url": "https://gallery.fitbit.com/details/58a68799-10be-4355-ad9e-cd29017807d5"
+    },
+    {
+        "name": "Autumn Leaves",
+        "description": "A simple digital clock face with autumn leaves made myself in the Inkscape program",
+        "image": "./assets/clockfaces/autumn-leaves.png",
+        "url": "https://gallery.fitbit.com/details/e62e84a5-9af1-4548-b888-cb2edc487a71"
+    },
+    {
+        "name": "Circles In Space",
+        "description": "Just a simple digital clock face.",
+        "image": "./assets/clockfaces/circles-in-space.png",
+        "url": "https://gallery.fitbit.com/details/8f609e51-89cf-4d5b-9c42-a938f120a48d"
+    },
+    {
+        "name": "Simple Beach",
+        "description": "A simple digital clock face using a picture I took on vacation",
+        "image": "./assets/clockfaces/simple-beach.png",
+        "url": "https://gallery.fitbit.com/details/50fbb328-b32b-4952-a6cb-60570989bf2a"
+    },
+    {
+        "name": "Simple Valentine's Day",
+        "description": "A simple digital clock face for Valentine's Day.",
+        "image": "./assets/clockfaces/simple-valentines-day.png",
+        "url": "https://gallery.fitbit.com/details/9fe856bf-745b-43ca-97a3-3ff26b2ca674"
+    },
+    {
+        "name": "Simple 4th of July",
+        "description": "A simple digital clock face for 4th of July.",
+        "image": "./assets/clockfaces/simple-4th-of-july.png",
+        "url": "https://gallery.fitbit.com/details/2b0bbb38-95b4-41a8-a766-0829a1969af2"
+    }
+]
