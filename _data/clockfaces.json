@@ -46,5 +46,17 @@
         "description": "Get into the fall spirit with this Pumpkin themed clock face.",
         "image": "./assets/clockfaces/pumpkins.png",
         "url": "https://gallery.fitbit.com/details/6463404e-62de-4e47-9927-0836288d227f"
+    },
+    {
+        "name": "Thanksgiving Turkey",
+        "description": "Enjoy this Thanksgiving turkey clock face!",
+        "image": "./assets/clockfaces/thanksgiving_turkey.png",
+        "url": "https://gallery.fitbit.com/details/0de69b1f-d9f6-4a54-a786-b95a574be56f"
+    },
+    {
+        "name": "Christmas",
+        "description": "Get into the Christmas spirit with this waving Santa clock face.",
+        "image": "./assets/clockfaces/christmas_santa.png",
+        "url": "https://gallery.fitbit.com/details/9db3148e-9ea9-46f1-8b60-03a153939f76"
     }
 ]

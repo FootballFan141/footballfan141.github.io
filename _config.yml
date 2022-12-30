@@ -41,6 +41,7 @@ social_media:
   keybase: FootballFan141
   linkedin: travis-jones-6310a74a
   dev: FootballFan141
+  twitter: appsbytravis
 
 topics:
   - name: Android
@@ -90,3 +91,8 @@ topics:
   - name: Windows
     web_url: https://github.com/topics/windows
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png
+    
+donations:
+  paypal:
+    username: appsbytravis
+    text: PayPal Me
