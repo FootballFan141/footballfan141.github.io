@@ -58,5 +58,17 @@
         "description": "Get into the Christmas spirit with this waving Santa clock face.",
         "image": "./assets/clockfaces/christmas_santa.png",
         "url": "https://gallery.fitbit.com/details/9db3148e-9ea9-46f1-8b60-03a153939f76"
+    },
+    {
+        "name": "Spring Flowers",
+        "description": "Simple clock face with beautiful spring flowers.",
+        "image": "./assets/clockfaces/spring_flowers.png",
+        "url": "https://gallery.fitbit.com/details/882b0f3f-3f5b-40fb-a865-7656999d9188"
+    },
+    {
+        "name": "Cow wearing a hat",
+        "description": "A simple digital clock face with a cow background.",
+        "image": "./assets/clockfaces/cow_wearing_hat.png",
+        "url": "https://gallery.fitbit.com/details/a8705fb6-54ce-43f6-babe-adda0bfba360"
     }
 ]
