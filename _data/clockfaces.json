@@ -1,7 +1,7 @@
 [
     {
         "name": "Simple Blocks",
-        "description": "A blocky / tile / square face with a digital clock, steps and calorie goal progress, current date, heart rate, battery status, steps and calories for the day. A motivational message at the bottom.",
+        "description": "A blocky / tile / square face with a digital clock",
         "image": "./assets/clockfaces/simple-blocks.png",
         "url": "https://gallery.fitbit.com/details/8c47df09-09e4-4ea0-becb-5c3d6fd68eb6"
     },
@@ -13,7 +13,7 @@
     },
     {
         "name": "Autumn Leaves",
-        "description": "A simple digital clock face with autumn leaves made myself in the Inkscape program",
+        "description": "A simple digital clock face with autumn leaves.",
         "image": "./assets/clockfaces/autumn-leaves.png",
         "url": "https://gallery.fitbit.com/details/e62e84a5-9af1-4548-b888-cb2edc487a71"
     },
@@ -25,7 +25,7 @@
     },
     {
         "name": "Simple Beach",
-        "description": "A simple digital clock face using a picture I took on vacation",
+        "description": "A simple digital clock face.",
         "image": "./assets/clockfaces/simple-beach.png",
         "url": "https://gallery.fitbit.com/details/50fbb328-b32b-4952-a6cb-60570989bf2a"
     },
@@ -70,5 +70,17 @@
         "description": "A simple digital clock face with a cow background.",
         "image": "./assets/clockfaces/cow_wearing_hat.png",
         "url": "https://gallery.fitbit.com/details/a8705fb6-54ce-43f6-babe-adda0bfba360"
+    },
+    {
+        "name": "Valentine's Day Hearts",
+        "description": "A simple 3D hearts clock face. Tap the screen to cycle through your stats!",
+        "image": "./assets/clockfaces/3d-valentines-hearts.png",
+        "url": "https://gallery.fitbit.com/details/3b9204ec-f17f-441e-a600-ec2f1bf8ee5f"
+    },
+    {
+        "name": "Festive Christmas",
+        "description": "Get into the Christmas spirit with this festive clock face.",
+        "image": "./assets/clockfaces/festive-christmas.png",
+        "url": "https://gallery.fitbit.com/details/f3fa9d2d-145b-42a1-92e5-86288e73d9b1"
     }
 ]
