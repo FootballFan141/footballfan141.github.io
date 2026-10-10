@@ -37,7 +37,7 @@ projects:
 
 social_media:
   behance: xbox360141ec0b
-  facebook: appsbytravis
+  facebook: travisjones.online
   keybase: FootballFan141
   linkedin: travis-jones-6310a74a
   dev: FootballFan141
@@ -91,8 +91,8 @@ topics:
   - name: Windows
     web_url: https://github.com/topics/windows
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png
-    
-donations:
-  paypal:
-    username: appsbytravis
-    text: PayPal Me
+
+links:
+  shopping:
+    - name: Shopping
+      url: https://shop.travisjones.online

@@ -82,5 +82,29 @@
         "description": "Get into the Christmas spirit with this festive clock face.",
         "image": "./assets/clockfaces/festive-christmas.png",
         "url": "https://gallery.fitbit.com/details/f3fa9d2d-145b-42a1-92e5-86288e73d9b1"
+    },
+    {
+        "name": "Farm Pumpkin Scene",
+        "description": "This is a cute autumn theme.",
+        "image": "./assets/clockfaces/farm-pumpkin-scene.png",
+        "url": "https://gallery.fitbit.com/details/098a4f85-2ae2-44a0-b884-b390735a7d0e"
+    },
+    {
+        "name": "4th of July",
+        "description": "Beautiful fireworks with the American flag on 4th of July",
+        "image": "./assets/clockfaces/4th-of-july.png",
+        "url": "https://gallery.fitbit.com/details/2ed0d3ed-612b-4c0b-ac3f-06e5844bcfc3"
+    },
+    {
+        "name": "Fur Baby Photo Frame",
+        "description": "Have your fur baby with you everywhere, on your wrist with this pet themed face!",
+        "image": "./assets/clockfaces/fur-baby-photo-frame.png",
+        "url": "https://gallery.fitbit.com/details/ff8b2ddb-ea03-46b3-9ea5-cdb973d2ce20"
+    },
+    {
+        "name": "Circles In Space Pro",
+        "description": "A pro version of my \"circles in space\" clock face. You can change the color of various parts.",
+        "image": "./assets/clockfaces/circles-in-space-pro.png",
+        "url": "https://gallery.fitbit.com/details/104fec30-0fbe-4dce-926c-4ba782d219fd"
     }
 ]
